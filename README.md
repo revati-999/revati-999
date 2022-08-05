@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Revati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/revati-vidhale-2341a81b3/)](https://www.linkedin.com/in/revati-vidhale-2341a81b3/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Revati-yellow)](https://stackoverflow.com/users/19701583-revati)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Revati-yellow)](https://stackoverflow.com/users/19701583)
 
 I'm
 Full Stack Solution Architect
